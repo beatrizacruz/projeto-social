@@ -42,11 +42,11 @@ a#instagram {
      background-color: magenta;
  }
 
-a#facebook {
+a#linkedin {
    background-color: darkblue;
  
 }
 
-a#facebook:hover {
+a#linkedin:hover {
     background-color: blue;
 }
